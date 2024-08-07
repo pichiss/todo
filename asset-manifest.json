@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/todo/static/css/main.b2b96d6e.css",
-    "main.js": "/todo/static/js/main.fafc13e2.js",
+    "main.css": "/todo/static/css/main.4284bebd.css",
+    "main.js": "/todo/static/js/main.44cb6de9.js",
     "static/js/453.37753ddd.chunk.js": "/todo/static/js/453.37753ddd.chunk.js",
     "static/media/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.jpg": "/todo/static/media/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.57430633dd769ef561c5.jpg",
     "index.html": "/todo/index.html",
-    "main.b2b96d6e.css.map": "/todo/static/css/main.b2b96d6e.css.map",
-    "main.fafc13e2.js.map": "/todo/static/js/main.fafc13e2.js.map",
+    "main.4284bebd.css.map": "/todo/static/css/main.4284bebd.css.map",
+    "main.44cb6de9.js.map": "/todo/static/js/main.44cb6de9.js.map",
     "453.37753ddd.chunk.js.map": "/todo/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b96d6e.css",
-    "static/js/main.fafc13e2.js"
+    "static/css/main.4284bebd.css",
+    "static/js/main.44cb6de9.js"
   ]
 }
