@@ -1,7 +1,7 @@
 import {useState,useEffect} from 'react';
 
 
-const TodoBoard = ({lists,deleteBtn})=>{
+const TodoBoard = ({lists,deleteBtn,updateItem})=>{
     const [update, setUpdate] = useState(true);
     const [editdo, setEditdo] = useState({});
     
@@ -23,6 +23,7 @@ const TodoBoard = ({lists,deleteBtn})=>{
     // 수정 저장
     function saveBtn(){
         if(window.confirm(`변경 하시겠습니까?`)){
+            updateItem(editdo);
             editBtn()
          }
         }

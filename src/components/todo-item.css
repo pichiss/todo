@@ -13,12 +13,7 @@ h1{
     color: #06005E;
     margin: 30px 0;
 }
-ul{
-    margin: 0 auto;
-}
-li{
-    color: rgb(47, 166, 202);
-}
+
 .flex{
     display: flex;
 }
@@ -44,6 +39,7 @@ li{
     margin: 10px 15px 10px 0;
     white-space: inherit ;
     text-align: left;
+    color: rgb(56, 156, 187);
 }
 .todoitem button, .todoPlusBtn, .flex button{
     background: none;

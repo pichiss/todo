@@ -34,6 +34,10 @@ function App() {
     setTodo('')
     addId.current++;
   }
+  //수정
+  const updateItem = (updatedItem) => {
+    setLists(lists.map((list) => (list.id === updatedItem.id ? updatedItem : list)));
+  };
 
   //삭제
   const deleteBtn = (targetId)=>{
@@ -51,7 +55,7 @@ function App() {
       </div>  
     </div>
     <div>
-      <TodoBoard addItem={addItem} lists={lists} deleteBtn={deleteBtn} />
+      <TodoBoard addItem={addItem} lists={lists} deleteBtn={deleteBtn} updateItem={updateItem}/>
     </div>
     </section>
     </>
