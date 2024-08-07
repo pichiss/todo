@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.com/todo/static/css/main.39f1698a.css",
-    "main.js": "/github.com/todo/static/js/main.731e5778.js",
-    "static/js/453.37753ddd.chunk.js": "/github.com/todo/static/js/453.37753ddd.chunk.js",
-    "static/media/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.jpg": "/github.com/todo/static/media/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.57430633dd769ef561c5.jpg",
-    "index.html": "/github.com/todo/index.html",
-    "main.39f1698a.css.map": "/github.com/todo/static/css/main.39f1698a.css.map",
-    "main.731e5778.js.map": "/github.com/todo/static/js/main.731e5778.js.map",
-    "453.37753ddd.chunk.js.map": "/github.com/todo/static/js/453.37753ddd.chunk.js.map"
+    "main.css": "/todo/static/css/main.2071ee81.css",
+    "main.js": "/todo/static/js/main.955fc296.js",
+    "static/js/453.37753ddd.chunk.js": "/todo/static/js/453.37753ddd.chunk.js",
+    "static/media/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.jpg": "/todo/static/media/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.57430633dd769ef561c5.jpg",
+    "index.html": "/todo/index.html",
+    "main.2071ee81.css.map": "/todo/static/css/main.2071ee81.css.map",
+    "main.955fc296.js.map": "/todo/static/js/main.955fc296.js.map",
+    "453.37753ddd.chunk.js.map": "/todo/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39f1698a.css",
-    "static/js/main.731e5778.js"
+    "static/css/main.2071ee81.css",
+    "static/js/main.955fc296.js"
   ]
 }
