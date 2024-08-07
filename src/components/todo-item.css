@@ -1,0 +1,62 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../public/vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.jpg);
+    background-size: cover;
+}
+section{
+    margin: 0 auto;
+    width: 800px;
+    }
+h1{
+    font-size: 30px;
+    color: #06005E;
+    margin: 30px 0;
+}
+ul{
+    margin: 0 auto;
+}
+li{
+    color: rgb(47, 166, 202);
+}
+.flex{
+    display: flex;
+}
+.todoPlus{
+    width: 600px;
+    height: 60px;
+    border: 1px dashed rgb(73, 173, 255);
+    outline: none;
+    padding: 20px;
+    margin-right: 15px;
+    border-radius: 15px;
+    margin: 10px 15px 10px 0;
+}
+.todoitem{
+    font-size: 20px;
+    width: 600px;
+    height: auto;
+    border: 1px dashed rgb(73, 173, 255);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    margin: 10px 15px 10px 0;
+}
+.todoitem button, .todoPlusBtn, .flex button{
+    background: none;
+    background-color: rgb(47, 166, 202);
+    color: #fff;
+    border: none;
+    width: 70px;
+    border: 1px solid  rgb(255, 255, 255);
+    border-radius: 15px;
+    height: 60px;
+    margin: 10px 5px 10px 0;
+}
+span{
+    margin-right: 10px;
+}
+
+
