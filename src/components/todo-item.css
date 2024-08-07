@@ -38,11 +38,12 @@ li{
     height: auto;
     border: 1px dashed rgb(73, 173, 255);
     display: flex;
-    justify-content: space-between;
     padding: 20px;
     background-color: #fff;
     border-radius: 15px;
     margin: 10px 15px 10px 0;
+    white-space: inherit ;
+    text-align: left;
 }
 .todoitem button, .todoPlusBtn, .flex button{
     background: none;

@@ -7,7 +7,6 @@ import './components/todo-item.css'
 
 function App() {
   const [todo, setTodo] = useState('');
-
   const [lists, setLists]=useState( [{
     id:1,
     todo:'첫번째 할일',
@@ -23,7 +22,9 @@ function App() {
     setTodo(e.target.value)
   };
 
+  //추가
   let addId = useRef(4)
+
   function addItem(){
     let list = {
       id : addId.current,
@@ -33,6 +34,8 @@ function App() {
     setTodo('')
     addId.current++;
   }
+
+  //삭제
   const deleteBtn = (targetId)=>{
   setLists(
     lists.filter((list)=>list.id !== targetId))
